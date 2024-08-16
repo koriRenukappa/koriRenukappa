@@ -1,4 +1,12 @@
-## Hi there 👋
+https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=110902&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+%20KORI%20RENUKAPPA+.+You+are+Welcome!+%F0%9F%8C%9F
+
+
+![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
+
+<h3 align="center">A Passionate MERN Stack Developerment From India</h3> 
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
 
 
 <h1 align="center">Hi 👋, I'm Kori Renukappa</h1>
