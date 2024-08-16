@@ -1,6 +1,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=110902&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+%20KORI%20RENUKAPPA+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-  ![MasterHead](https://tse3.mm.bing.net/th?id=OIP.7uduB6qe5bnOSzDf5nwy7wHaEm&pid=Api&P=0&h=180)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="center">A Passionate Frontend Developerment From India</h3> 
 
