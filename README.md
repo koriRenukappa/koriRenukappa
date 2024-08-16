@@ -1,6 +1,6 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=110902&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+%20KORI%20RENUKAPPA+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 
 <h3 align="center">A Passionate Frontend Developerment From India</h3> 
