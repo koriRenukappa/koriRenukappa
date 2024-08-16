@@ -1,6 +1,6 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=110902&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+%20KORI%20RENUKAPPA+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-![MasterHead](https://irfantariq.com/images/banner.gif)
+  ![MasterHead](https://irfantariq.com/images/banner.gif)
 
 <h3 align="center">A Passionate Frontend Developerment From India</h3> 
 
