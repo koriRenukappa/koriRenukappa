@@ -1,6 +1,6 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=110902&random=false&width=535&lines=%F0%9F%91%8B+Hey%2C+I%27m+%20KORI%20RENUKAPPA+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
+![MasterHead](https://irfantariq.com/images/banner.gif)
 
 <h3 align="center">A Passionate MERN Stack Developerment From India</h3> 
 
@@ -8,8 +8,19 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Kori Renukappa</h1>
-<h3 align="center">A passionate about Frontend Developerment from India</h3>
+
+
+- 🌱 I’m currently learning Frontend Development
+- 💼 Currently interning as a Frontend web Developer at Prodigy Intern honing my skills in web development.
+- 💻 Skilled in HTML5, CSS3, UI UX, Javascript, React JS, Java, SQL and more...
+- 🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.
+- 💬 Ask me about ...
+- 📫 How to reach me: renukori616@gmail.com
+- ⚡ Fun fact: I'm Funny
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korirenukappa&label=Profile%20views&color=0e75b6&style=flat" alt="korirenukappa" /> </p>
 
