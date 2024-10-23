@@ -12,12 +12,11 @@
 
 
 - 🌱 I’m currently learning Frontend Development
-- 💼 Currently interning as a Frontend web Developer at Prodigy Intern honing my skills in web development.
-- 💻 Skilled in HTML5, CSS3, UI UX, Javascript, React JS, Java, SQL and more...
+- 💼 Currently seeking an entry level opportunity in web development.
+- 💻 Skilled in HTML5, CSS3, UI UX, Javascript, SQL.
 - 🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.
 - 💬 Ask me about ...
 - 📫 How to reach me: renukori616@gmail.com
-- ⚡ Fun fact: I'm Funny
 
 
 
