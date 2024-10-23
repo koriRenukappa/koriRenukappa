@@ -20,8 +20,6 @@
 
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korirenukappa&label=Profile%20views&color=0e75b6&style=flat" alt="korirenukappa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korirenukappa" alt="korirenukappa" /></a> </p>
@@ -30,7 +28,6 @@
 
 - 📫 How to reach me **renukori616@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
