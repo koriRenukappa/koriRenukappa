@@ -8,12 +8,7 @@
 <img align="right" alt="Coding" width="400" padding-bottom="30" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 
-
-
-
-- 🌱 I have strong foundation in front end development and ui ux design
-- 💼 Currently seeking an entry level opportunity in web development.
-- 💻 Skilled in HTML5, CSS3, UI UX, Javascript, SQL.
+- 💻 Skills: HTML5, CSS3, Javascript, UI, UX, Excel, PowerPoint, Powerbi, SQL.
 - 🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.
 - 💬 Ask me about ...
 - 📫 How to reach me: renukori616@gmail.com
